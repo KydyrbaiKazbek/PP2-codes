@@ -1,0 +1,127 @@
+a = """"
+https://vimeo.com/862403928/fb5fc7734e?share=copy&authuser=1&hl=ru
+https://vimeo.com/862404528/26679c35b7?share=copy&authuser=1&hl=ru
+https://vimeo.com/862403566/6e52eb60bc?share=copy&authuser=1&hl=ru
+https://vimeo.com/862404950/3f3be69fcb?share=copy&authuser=1&hl=ru
+https://vimeo.com/862405526/ef40b10c16?share=copy&authuser=1&hl=ru
+https://vimeo.com/862405237/ca8ea0d572?share=copy&authuser=1&hl=ru
+https://vimeo.com/862406518/35259ccfea?share=copy&authuser=1&hl=ru
+https://vimeo.com/862406097/46f578454f?share=copy&authuser=1&hl=ru
+https://vimeo.com/862405795/c94666eaa6?share=copy&authuser=1&hl=ru
+https://vimeo.com/862406866/6007529d68?share=copy&authuser=1&hl=ru
+https://vimeo.com/862406282/639bd2473b?share=copy&authuser=1&hl=ru
+https://vimeo.com/862407524/68522234ea?share=copy&authuser=1&hl=ru
+https://vimeo.com/862407180/a85d35caa4?share=copy&authuser=1&hl=ru
+https://vimeo.com/862408182/87fbfe9c76?share=copy&authuser=1&hl=ru
+https://vimeo.com/862408590/34a2510530?share=copy&authuser=1&hl=ru
+https://vimeo.com/862408386/3bbcffd3e4?share=copy&authuser=1&hl=ru
+https://vimeo.com/862407881/ff05ffed1c?share=copy&authuser=1&hl=ru
+https://vimeo.com/862409154/91cb9934a1?share=copy&authuser=1&hl=ru
+https://vimeo.com/862408772/c6ac58a62b?share=copy&authuser=1&hl=ru
+https://vimeo.com/862408998/553fd78ecd?share=copy&authuser=1&hl=ru
+https://vimeo.com/862409569/31c149171d?share=copy&authuser=1&hl=ru
+https://vimeo.com/862411145/1db2d9bba3?share=copy&authuser=1&hl=ru
+https://vimeo.com/862409346/21b22c7088?share=copy&authuser=1&hl=ru
+https://vimeo.com/862409734/74a5839072?share=copy&authuser=1&hl=ru
+https://vimeo.com/862411649/4ab9154448?share=copy&authuser=1&hl=ru
+https://vimeo.com/862412115/5f4fd30487?share=copy&authuser=1
+https://vimeo.com/862411861/7e1ffd0c88?share=copy&authuser=1&hl=ru
+https://vimeo.com/862412739/110eb627e3?share=copy&authuser=1&hl=ru
+https://vimeo.com/862412495/9a69d44142?share=copy&authuser=1&hl=ru 34 Ноғай Ордасы
+https://vimeo.com/862412341/e223355e91?share=copy&authuser=1&hl=ru 33 Әбілхайыр Хандығы
+https://vimeo.com/862415251/ae76c35ae1?share=copy&authuser=1&hl=ru 43 Қасым хан
+https://vimeo.com/862414951/bb1a3e8a55?share=copy&authuser=1&hl=ru 42 ХV ҒАСЫРДЫҢ СОҢЫ – ХVI ҒАСЫРДЫҢ БАСЫНДА ҚАЗАҚ ЖЕРIНIҢ БIРIКТIРIЛУI
+https://vimeo.com/862415498/d7f5a7a9d5?share=copy&authuser=1&hl=ru 44 Хақназар хан
+https://vimeo.com/887906815/195beeb018?share=copy&authuser=1&hl=ru 38-41 ҚАЗАҚ ХАНДЫҒЫНЫҢ ҚҰРЫЛУЫ
+https://vimeo.com/862417039/4f20f4d73c?share=copy&authuser=1&hl=ru 47 Жәңгір хан
+https://vimeo.com/862416259/5d1d45f78f?share=copy&authuser=1&hl=ru 45 Шығай хан, Тәуекел хан
+https://vimeo.com/862416688/bcc307ca21?share=copy&authuser=1&hl=ru 46 Есім хан
+https://vimeo.com/862731037/eba9154a91?share=copy&authuser=1       50-54 ҚАЗАҚ ҚОҒАМЫНЫҢ ӘЛЕУМЕТТIК ҚҰРЫЛЫМЫ
+https://vimeo.com/887907269/d95f297db1?share=copy&authuser=1       1-2-3 8 сынып Жоңғар басқыншыларына қарсы отан соғысының басталуы
+https://vimeo.com/862417276/0ef09cfefa?share=copy&authuser=1&hl=ru 48-49 Тәуке
+https://vimeo.com/862731157/3943d218be?share=copy&authuser=1       55-57 ХV–XVII ҒАСЫРЛАРДАҒЫ РУХАНИ МӘДЕНИЕТ
+https://vimeo.com/887908099/13934f10ea?authuser=1
+https://vimeo.com/887907796/5fcaae33d3?authuser=1
+https://vimeo.com/887908375/53792ef08e?authuser=1 
+https://vimeo.com/888374855/fc48230b01?authuser=1
+https://vimeo.com/888375051/e11dd17335?authuser=1
+https://vimeo.com/887908651/f5536aed3f?authuser=1
+https://vimeo.com/890601698/3fa3e88624?authuser=1
+https://vimeo.com/888375135/750c2b420a?authuser=1
+https://vimeo.com/888375314/3f6a1df0a0?authuser=1
+https://vimeo.com/888375490/056001d9a3?authuser=1
+https://vimeo.com/890602512/1d1ce9dacc?authuser=1
+https://vimeo.com/890602381/eb7db95237?authuser=1
+https://vimeo.com/890602188/89ac8dc1da?authuser=1
+https://vimeo.com/890601928/30844a2508?authuser=1
+https://vimeo.com/890602607/6979c93126?authuser=1
+https://vimeo.com/890602744/1149125ac1?authuser=1
+https://vimeo.com/890602972/137f039cfc?authuser=1
+https://vimeo.com/890603516/bf2596d6d3?authuser=1
+https://vimeo.com/890603750/2eda56cc88?authuser=1
+https://vimeo.com/890603291/d728bd6b4b?authuser=1
+https://vimeo.com/890603901/a1c7e70ade?authuser=1
+https://vimeo.com/890604151/f52ff3ac80?authuser=1
+https://vimeo.com/890602822/5c8bdbdab2?share=copy&authuser=1
+https://vimeo.com/890603817/7e8846084f?share=copy&authuser=1
+https://vimeo.com/890603189/6fd611fd4c?share=copy&authuser=1
+https://vimeo.com/890603502/0ea3d255d0?share=copy&authuser=1
+https://vimeo.com/890604238/140778a055?share=copy&authuser=1
+https://vimeo.com/890604432/a083432dbd?share=copy&authuser=1
+https://vimeo.com/890604704/e2e13de052?authuser=1
+https://vimeo.com/890604462/6f6ca42a70?authuser=1
+https://vimeo.com/890607473/d1e901a722?authuser=1
+https://vimeo.com/890604825/69b97ca924?authuser=1
+https://vimeo.com/890605265/e5db9476ca?authuser=1
+https://vimeo.com/890605746/f3308aba71?authuser=1
+https://vimeo.com/890605317/48ae3f531b?authuser=1
+https://vimeo.com/890605985/783d1de287?authuser=1
+https://vimeo.com/890606233/b8f18ad209?authuser=1
+https://vimeo.com/890606462/3148e28031?authuser=1
+https://vimeo.com/890606553/66aa9d2afa?authuser=1
+https://vimeo.com/890604974/77da46b358?authuser=1
+https://vimeo.com/881190767/11d2f22936?share=copy&hl=ru&authuser=1
+https://vimeo.com/890606388/c96fd5b680?authuser=1
+https://vimeo.com/890605995/eb7ca17f0f?authuser=1
+https://vimeo.com/890606219/0f2722c920?authuser=1*
+https://vimeo.com/881192478/c92a0ea021?share=copy&hl=ru&authuser=1
+https://vimeo.com/881193499/a2b3097365?share=copy&hl=ru&authuser=1
+https://vimeo.com/881192311/eaaa7dbf9e?share=copy&hl=ru&authuser=1
+https://vimeo.com/890607945/f27ba35f84?share=copy&hl=ru&authuser=1
+https://vimeo.com/881194372/1045abf8b3?share=copy&hl=ru&authuser=1
+https://vimeo.com/881194255/5a2c635f5f?share=copy&hl=ru&authuser=1
+https://vimeo.com/890608136/fd3264fcff?share=copy&hl=ru&authuser=1
+https://vimeo.com/890609991/c6a1b13dec?share=copy&hl=ru&authuser=1
+https://vimeo.com/890610537/56c646893d?share=copy&hl=ru&authuser=1
+https://vimeo.com/890608323/1de2441c2b?share=copy&hl=ru&authuser=1
+https://vimeo.com/890610180/6533906777?share=copy&hl=ru&authuser=1
+https://vimeo.com/890610454/929427aee5?share=copy&hl=ru&authuser=1
+https://vimeo.com/890610272/d099de4e46?share=copy&hl=ru&authuser=1
+https://vimeo.com/888258251/3e437060d8?share=copy&authuser=1
+https://vimeo.com/888259298/fd993bd05e?share=copy&authuser=1
+https://vimeo.com/888260746/50b41a44b0?share=copy&authuser=1
+https://vimeo.com/888261511/a8ae354539?share=copy&authuser=1
+https://vimeo.com/890599513/473f075b78?share=copy&hl=ru&authuser=1
+https://vimeo.com/891146895/ba062a2b65?share=copy&hl=ru&authuser=1
+https://vimeo.com/890598196/e3dc2049ba?share=copy&hl=ru&authuser=1
+https://vimeo.com/888261952/4b45452b48?share=copy&authuser=1
+https://vimeo.com/891149701/f08ac22b1e?share=copy&hl=ru&authuser=1
+https://vimeo.com/891150486/9e3c571d01?share=copy&hl=ru&authuser=1
+https://vimeo.com/891150190/966e2ea144?share=copy&hl=ru&authuser=1
+https://vimeo.com/892553909/8c048f9684?share=copy&authuser=1
+https://vimeo.com/892554614/26f0481735?share=copy&authuser=1
+https://vimeo.com/892556250/3c4299a909?share=copy&authuser=1
+https://vimeo.com/891153489/6427ecc1b4?share=copy&hl=ru&authuser=1
+https://vimeo.com/897482717/99cf504f1a?share=copy&authuser=1
+https://vimeo.com/892557242/cfcd4748ed?share=copy&authuser=1
+https://vimeo.com/897482919/2e3abc59ee?share=copy&authuser=1
+https://vimeo.com/897482991/738d3a15e1?share=copy&authuser=1"""
+
+b = []
+for i in a.split("\n"):
+    b.append(i)
+
+b.sort()
+for i in range(len(b)):
+    print(i+1, b[i])
+#print(*b, sep="\n")
