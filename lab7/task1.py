@@ -38,6 +38,5 @@ while run:
     screen.blit(left, leftIMAGE.topleft)
     screen.blit(right, rightIMAGE.topleft)
 
-
     pygame.display.update()
     pygame.display.flip()

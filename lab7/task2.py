@@ -4,8 +4,8 @@ pygame.init()
 running=True
 screen=pygame.display.set_mode((600, 600))
 mus1=pygame.transform.scale(pygame.image.load(r"C:\Users\Kazbek\Documents\Academic Materials of KBTU\PP2 codes\lab7\images\flag.jpg"),(612, 408))
-mus2=pygame.transform.scale(pygame.image.load(r"C:\Users\Kazbek\Documents\Academic Materials of KBTU\PP2 codes\lab7\images\Sarah.png"),(1074, 1080))
-mus3=pygame.transform.scale(pygame.image.load(r"C:\Users\Kazbek\Documents\Academic Materials of KBTU\PP2 codes\lab7\images\Rauf&Faik.jpeg"),(640, 640))
+mus2=pygame.transform.scale(pygame.image.load(r"C:\Users\Kazbek\Documents\Academic Materials of KBTU\PP2 codes\lab7\images\Sarah.png"),(600, 600))
+mus3=pygame.transform.scale(pygame.image.load(r"C:\Users\Kazbek\Documents\Academic Materials of KBTU\PP2 codes\lab7\images\Rauf&Faik.jpeg"),(600, 600))
 arrP=[mus1, mus2, mus3]
 arrM=[
 r"C:\Users\Kazbek\Documents\Academic Materials of KBTU\PP2 codes\lab7\audios\kazakhstan_2006.mp3",
@@ -17,6 +17,7 @@ pygame.mixer.music.load(arrM[index])
 pygame.mixer.music.play()
 paused=False
 while running:
+    screen.fill((0,0,0))
     screen.blit(arrP[index], (0, 0))
     pygame.display.update()
     for event in pygame.event.get():

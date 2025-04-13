@@ -9,7 +9,7 @@ colorGREEN = (0,255,0)
 
 pygame.init()
 
-# ---------- SETUP ----------
+#   SETUP  
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 base_layer = pygame.Surface((WIDTH, HEIGHT))
@@ -18,7 +18,7 @@ base_layer.fill(colorBLACK)  # Fill background with black
 clock = pygame.time.Clock()
 font = pygame.font.SysFont('None', 30)
 
-# ---------- STATE ----------
+#   STATE  
 draw = False
 radius = 5
 color = 'blue'       # Initial color
@@ -27,7 +27,7 @@ mode = 'circle'      # Initial mode
 start_pos = (0, 0)
 end_pos = (0, 0)
 
-# ---------- DRAWING FUNCTIONS ----------
+#  DRAWING FUNCTIONS  
 
 def drawCircle(surf, start, end, width, color):
     center = ((start[0] + end[0]) // 2, (start[1] + end[1]) // 2)
@@ -81,7 +81,7 @@ def eraseRect(surf, start, end):
     rect = pygame.Rect(min(x1,x2), min(y1,y2), abs(x2 - x1), abs(y2 - y1))
     pygame.draw.rect(surf, colorBLACK, rect)
 
-# ---------- MAIN LOOP ----------
+#   MAIN LOOP  
 running = True
 while running:
     screen.blit(base_layer, (0, 0))  # Draw saved content
@@ -97,7 +97,7 @@ while running:
         if event.type == pygame.QUIT:
             running = False
 
-        # ---------- KEY CONTROLS ----------
+        #   KEY CONTROLS  
         if event.type == pygame.KEYDOWN:
             # Color keys
             if event.key == pygame.K_r:
@@ -123,7 +123,7 @@ while running:
             elif event.key == pygame.K_7:
                 mode = 'erase'
 
-        # ---------- MOUSE DRAWING ----------
+        #   MOUSE DRAWING  
         if event.type == pygame.MOUSEBUTTONDOWN and event.button == 1:
             draw = True
             start_pos = event.pos
